@@ -1,1 +1,2 @@
-# odin-landingpage
+# Odin LandingPage - Exercise
+Hi fellow developer! this is my second exercise with The Odin Project, where i have to create from zero a landing page, while improving my problem solving skills and applicating what i've learned in the HTML and CSS foundations curriculum.
