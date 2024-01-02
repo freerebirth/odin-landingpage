@@ -1,0 +1,42 @@
+*{
+    border: 1px solid red;
+    margin: 0;
+    padding:0;
+}
+
+.first-section{
+    background-color: #1f2937;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar-left{
+    display:flex;
+}
+.navbar-right{
+    display: flex;
+    justify-content: flex-end;
+    align-items: ;
+}
+#header-logo{
+    
+    font-size: 24px;
+    color: #f9faf8;
+
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    
+}
+
+.header-links{
+    
+    font-size: 18px;
+    color: #E5E7EB;
+}
