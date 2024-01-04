@@ -122,3 +122,29 @@ gap: 10px;
     margin-bottom: 25px
 }
 
+.text-third-section{
+    background-color: #E5E7EB;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-third{
+    
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 100;
+    font-style: italic;
+    text-align:left;
+    width: 800px ;
+    
+}
+.thor{
+    display: flex;
+    font-size: 26px;
+    margin-left: 538px;
+    font-weight: bold;
+    color:#1f2937;
+}
