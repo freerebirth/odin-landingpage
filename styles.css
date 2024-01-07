@@ -148,3 +148,47 @@ gap: 10px;
     font-weight: bold;
     color:#1f2937;
 }
+
+.fourth-section{
+    margin-top: 120px;
+    margin-bottom: 120px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.calltoaction{
+    background-color: #3882f6;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    gap:50px
+}
+
+span{
+    font-weight: bold;
+    font-size: 20px;
+    color: #f9faf8;
+    
+}
+
+.itstime{
+    color: #f9faf8;
+}
+
+.right{
+    display: flex;
+}
+.signup2{
+    width: 150px;
+    background-color:transparent;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #f9faf8;
+    border-color: #f9faf8;
+}
