@@ -2,21 +2,19 @@
 
 *{
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
-    border: 1px solid red;
     margin: 0;
     padding:0;
 }
 
 .first-section{
     background-color: #1f2937;
-    
-    
-    
+    padding-bottom: 20px;
 }
 
 .navbar{
     display: flex;
     justify-content: space-around;
+    padding: 20px;
 }
 
 .navbar-left{
@@ -24,22 +22,19 @@
 }
 .navbar-right{
     display: flex;
-    justify-content: flex-end;
-    
+    justify-content: flex-end; 
 }
 #header-logo{
     
     font-size: 24px;
     color: #f9faf8;
     font-weight: bold;
-
 }
 
 ul{
     display: flex;
     justify-content: flex-end;
     gap: 20px;
-    
 }
 
 .header-links{
@@ -102,8 +97,6 @@ gap: 10px;
     justify-content: center;
     margin: 50px 50px 80px 50px;
     gap: 70px;
-    
-    
 }
 
 .tab{
@@ -111,7 +104,6 @@ gap: 10px;
     flex-direction:column;
     align-items: center;
     color: #212427;
-
 }
 .square{
     
@@ -139,7 +131,6 @@ gap: 10px;
     font-style: italic;
     text-align:left;
     width: 800px ;
-    
 }
 .thor{
     display: flex;
@@ -173,7 +164,6 @@ span{
     font-weight: bold;
     font-size: 20px;
     color: #f9faf8;
-    
 }
 
 .itstime{
@@ -191,4 +181,18 @@ span{
     font-weight: bold;
     color: #f9faf8;
     border-color: #f9faf8;
+}
+
+.footer{
+    background-color: #1f2937;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.footertext{
+    color: #f9faf8;
+    text-align: center;   
 }
